@@ -1,4 +1,4 @@
-#Deploying wordpress using the steps below:
+# Deploying wordpress using the steps below:
 Create a deployment mysql with 1 replica
 #
 Create a ClusterIP service to expose mysql pods
